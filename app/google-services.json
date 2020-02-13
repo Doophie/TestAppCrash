@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477774540458",
+    "firebase_url": "https://testappcrash-25763.firebaseio.com",
+    "project_id": "testappcrash-25763",
+    "storage_bucket": "testappcrash-25763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477774540458:android:1da19a2b56bc2a34a16ad3",
+        "android_client_info": {
+          "package_name": "informationaesthetics.com.testappcrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477774540458-ehjvqe2kj43u4h63u9nm7cbgjdh5s8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVIjh4scHGrWKw1BcoxVWLtlMTyRQ0oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477774540458-ehjvqe2kj43u4h63u9nm7cbgjdh5s8qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
